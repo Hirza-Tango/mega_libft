@@ -1,0 +1,9 @@
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:Hirza-Tango/ft_printf.git
+[submodule "libft"]
+	path = libft
+	url = git@github.com:Hirza-Tango/libft.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:Hirza-Tango/get_next_line.git
