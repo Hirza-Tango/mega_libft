@@ -1,12 +1,12 @@
 [submodule "ft_printf"]
 	path = ft_printf
-	url = git@github.com:Hirza-Tango/ft_printf.git
+	url = https://github.com/Hirza-Tango/ft_printf
 	master = master
 [submodule "libft"]
 	path = libft
-	url = git@github.com:Hirza-Tango/libft.git
+	url = https://github.com/Hirza-Tango/libft
 	master = master
 [submodule "get_next_line"]
 	path = get_next_line
-	url = git@github.com:Hirza-Tango/get_next_line.git
+	url = https://github.com/Hirza-Tango/get_next_line
 	master = master
